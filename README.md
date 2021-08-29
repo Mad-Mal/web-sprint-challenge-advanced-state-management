@@ -20,6 +20,7 @@ In this challenge, you are to build a Smurfs village database utilizing Redux as
 
 ## Instructions
 
+
 ### Task 1: Transfer Repo
 * Clone this repository.
 * Implement the project on your newly created <firstName-lastName> branch, committing changes regularly.
